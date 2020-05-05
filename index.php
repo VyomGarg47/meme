@@ -3,6 +3,7 @@ include("includes/header.php");
 //session_destroy();
 include("includes/classes/User.php");
 include("includes/classes/Post.php");
+//This is a comment, Delete it please....!!!
 
 
 if(isset($_POST['post'])){
